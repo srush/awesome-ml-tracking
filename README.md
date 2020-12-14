@@ -15,6 +15,7 @@ There are tons of open-source solutions now for tracking ML solutions in real ti
 * Hopsworks https://github.com/logicalclocks/hopsworks
 * Trains https://github.com/allegroai/trains/
 * Aim https://github.com/aimhubio/aim
+* Drifter-ML https://github.com/EricSchles/drifter_ml
 
 ## SAAS
 
