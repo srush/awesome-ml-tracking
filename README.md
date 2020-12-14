@@ -1,8 +1,8 @@
-# awesome-ml-tracking
+# ml tracking
 
 Solutions for tracking your ML experiment in real time
 
-# Open-Source
+## Open-Source
 
 * Replicate.ai https://github.com/replicate/replicate
 * LabMl https://github.com/lab-ml/labml
@@ -13,10 +13,10 @@ Solutions for tracking your ML experiment in real time
 * Sacred https://github.com/IDSIA/sacred
 * Polyaxon https://github.com/polyaxon/polyaxon
 * Hopsworks https://github.com/logicalclocks/hopsworks
-* TRAINS https://github.com/allegroai/trains/
-* AIM https://github.com/aimhubio/aim
+* Trains https://github.com/allegroai/trains/
+* Aim https://github.com/aimhubio/aim
 
-# SAAS
+## SAAS
 
 * Comet https://www.comet.ml/site/
 * WandB https://www.wandb.com/
