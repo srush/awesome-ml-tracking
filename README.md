@@ -1,6 +1,6 @@
-# ml tracking
+# ML Tracking
 
-Solutions for tracking your ML experiment in real time
+There are tons of open-source solutions now for tracking ML solutions in real time. Here are some!
 
 ## Open-Source
 
