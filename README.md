@@ -1,4 +1,4 @@
-# ML Tracking
+# ML Tracking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 There are tons of open-source solutions now for tracking ML solutions in real time. Here are some!
 
